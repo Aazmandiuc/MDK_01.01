@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T14:49:04.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.837 YaBrowser/23.9.4.837 Yowser/2.5 Safari/537.36" etag="RbDMYb6AXhxMgX85eKHN" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-12T14:59:31.735Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.837 YaBrowser/23.9.4.837 Yowser/2.5 Safari/537.36" etag="VID6wD3IlqrylgggoHAn" version="22.1.0" type="github">
   <diagram name="Страница — 1" id="AlQD9dn_6ychbjj3YRgS">
-    <mxGraphModel dx="2231" dy="1202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2231" dy="1602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,12 +10,12 @@
         <mxCell id="nbPrg2UbWxgXKM3_-ETi-3" value="Название" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="nbPrg2UbWxgXKM3_-ETi-1" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="31yS1S1_jtwmiiV0gVuv-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="nbPrg2UbWxgXKM3_-ETi-1" source="nbPrg2UbWxgXKM3_-ETi-2">
+        <mxCell id="31yS1S1_jtwmiiV0gVuv-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="nbPrg2UbWxgXKM3_-ETi-1" source="nbPrg2UbWxgXKM3_-ETi-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="-70" as="targetPoint" />
+            <mxPoint x="180" y="-130" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-49" y="71" />
-              <mxPoint x="-49" y="-70" />
+              <mxPoint x="-20" y="71" />
+              <mxPoint x="-20" y="-130" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -24,7 +24,7 @@
         </mxCell>
         <mxCell id="31yS1S1_jtwmiiV0gVuv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="nbPrg2UbWxgXKM3_-ETi-1" source="nbPrg2UbWxgXKM3_-ETi-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="200" as="targetPoint" />
+            <mxPoint x="260" y="240" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-20" y="101" />
               <mxPoint x="-20" y="158" />
@@ -36,7 +36,7 @@
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="31yS1S1_jtwmiiV0gVuv-1" value="Виды содержимого" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="330" y="-260" width="160" height="116" as="geometry" />
+          <mxGeometry x="-160" y="-490" width="160" height="116" as="geometry" />
         </mxCell>
         <mxCell id="31yS1S1_jtwmiiV0gVuv-2" value="Item 1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="31yS1S1_jtwmiiV0gVuv-1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -48,15 +48,15 @@
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="31yS1S1_jtwmiiV0gVuv-5" value="Содержимое" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="-270" width="160" height="116" as="geometry" />
+          <mxGeometry x="-340" y="-320" width="160" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="31yS1S1_jtwmiiV0gVuv-6" value="Item 1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="31yS1S1_jtwmiiV0gVuv-5">
+        <mxCell id="31yS1S1_jtwmiiV0gVuv-6" value="Название" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="31yS1S1_jtwmiiV0gVuv-5">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="31yS1S1_jtwmiiV0gVuv-7" value="Item 2" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="31yS1S1_jtwmiiV0gVuv-5">
+        <mxCell id="31yS1S1_jtwmiiV0gVuv-7" value="Вид" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="31yS1S1_jtwmiiV0gVuv-5">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="31yS1S1_jtwmiiV0gVuv-8" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="31yS1S1_jtwmiiV0gVuv-5">
+        <mxCell id="31yS1S1_jtwmiiV0gVuv-8" value="Поставщик" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="31yS1S1_jtwmiiV0gVuv-5">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="31yS1S1_jtwmiiV0gVuv-9" value="Сотрудники" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
@@ -72,7 +72,7 @@
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="31yS1S1_jtwmiiV0gVuv-13" value="Поступило" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="220" y="190" width="160" height="116" as="geometry" />
+          <mxGeometry x="120" y="-230" width="160" height="116" as="geometry" />
         </mxCell>
         <mxCell id="31yS1S1_jtwmiiV0gVuv-14" value="Item 1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="31yS1S1_jtwmiiV0gVuv-13">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -84,7 +84,7 @@
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="31yS1S1_jtwmiiV0gVuv-17" value="Изъято" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="480" y="190" width="160" height="116" as="geometry" />
+          <mxGeometry x="120" y="-360" width="160" height="116" as="geometry" />
         </mxCell>
         <mxCell id="31yS1S1_jtwmiiV0gVuv-18" value="Item 1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="31yS1S1_jtwmiiV0gVuv-17">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
