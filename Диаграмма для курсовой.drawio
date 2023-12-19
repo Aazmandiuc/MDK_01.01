@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T14:54:09.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.771 YaBrowser/23.11.2.771 Yowser/2.5 Safari/537.36" etag="YlStlo9plCSrZBrPjrnm" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T14:54:51.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.771 YaBrowser/23.11.2.771 Yowser/2.5 Safari/537.36" etag="PyOoixaLT9YdksMzhK4g" version="22.1.11" type="github">
   <diagram name="Страница — 1" id="95dfs9ff0Wd2YRVwgPRh">
     <mxGraphModel dx="2355" dy="639" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -185,7 +185,7 @@
           <mxGeometry x="-353.00333333333305" y="628" width="581" height="159" as="geometry" />
         </mxCell>
         <mxCell id="5LRAOqItPmNHGHG5xUAR-9" value="&lt;div style=&quot;color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;pre&gt;smartphonesWindow&lt;/pre&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="545" y="1183" width="158" height="280" as="geometry" />
+          <mxGeometry x="524" y="1185" width="158" height="280" as="geometry" />
         </mxCell>
         <mxCell id="5LRAOqItPmNHGHG5xUAR-10" value="- connection" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="5LRAOqItPmNHGHG5xUAR-9" vertex="1">
           <mxGeometry y="30" width="158" height="30" as="geometry" />
